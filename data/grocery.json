@@ -1,0 +1,21 @@
+{
+  "grocery": {
+    "eggs": 1,
+    "fruits": {
+      "apple": 2,
+      "banana": 3,
+      "orange": 4
+    },
+    "vegitables": {
+      "carrot": 5,
+      "potato": 6,
+      "onion": 7
+    }
+  },
+  "body": {
+    "weight": 55,
+    "height": 5.5,
+    "alergies": ["mushrooms"]
+  }
+}
+
